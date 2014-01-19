@@ -50,9 +50,9 @@
 
 + (id)filledPressedLetterpressedCircleWithOutlineOfColor:(id)arg1 {
     id circle = %orig(arg1);
-    
+
     %log(circle);
-    
+
     return circle;
 }
 
